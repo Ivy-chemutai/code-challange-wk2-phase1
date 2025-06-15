@@ -1,24 +1,24 @@
 # code-challange-wk2-phase1
-# 🎉 Event Guest List Manager
+#  Event Guest List Manager
 
-A simple and interactive Event Guest List Manager built using **HTML**, **CSS**, and **JavaScript**. This app lets users add, categorize, and manage guests dynamically in the browser with no page reloads.
-
----
-
-## 🚀 Features
-
-- ✅ Add guest names via form input
-- ✅ Categorize guests as **Friend**, **Family**, or **Colleague**
-- ✅ Mark guests as **Attending** or **Not Attending**
-- ✅ View the **timestamp** when each guest was added
-- ✅ Edit guest names after submission
-- ✅ Remove guests from the list
-- ✅ Limit guest list to **10 people** with alert enforcement
-- ✅ **LocalStorage** support – keeps your list saved between sessions
+A simple and interactive Event Guest List Manager built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📦 File Structure
+##  Features
+
+-  Add guest names via form input
+-  Categorize guests as **Friend**, **Family**, or **Colleague**
+-  Mark guests as **Attending** or **Not Attending**
+-  View the **timestamp** when each guest was added
+- Edit guest names after submission
+-  Remove guests from the list
+- Limit guest list to **10 people** with alert enforcement
+- **LocalStorage** support – keeps your list saved between sessions
+
+---
+
+##  File Structure
 project-folder/
 **index.html # HTML structure
 **style.css # Styling
@@ -26,32 +26,27 @@ project-folder/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository or download the ZIP.
 2. Open `index.html` in any modern web browser.
 3. Start adding guests!
 
-> ✅ No server or build tools needed — pure frontend project.
+> No server or build tools needed — pure frontend project.
 
 ---
 
-## 📸 Screenshot
 
-![Guest List Screenshot](screenshot.png) <!-- Replace with an actual screenshot if you have one -->
+##  Stretch Features (Optional Enhancements)
 
----
-
-## ✨ Stretch Features (Optional Enhancements)
-
-- 🎨 Color-coded categories
-- ⏰ Time guest was added
-- 📝 Edit name after submission
-- 💡 Add your own creative features!
+- Color-coded categories
+- The time the guest was added
+-  Edit name after submission
+- Add your creative features!
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 - Use the browser developer tools (F12) to monitor console logs.
 - Test adding, removing, and editing guests.
@@ -61,11 +56,11 @@ project-folder/
 
 ##  License
 
-This project is open source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
+This project is open source and available under the [MIT License]
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Created as part of a JavaScript DOM Manipulation Code Challenge.
 
