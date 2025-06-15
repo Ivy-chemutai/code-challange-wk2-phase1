@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #e0e0e0;
+  background-color:pink;
   padding: 40px 20px;
   color: #333;
 }
@@ -17,7 +17,7 @@ body {
   max-width: 600px;
   margin: 0 auto 30px auto;
   padding: 20px;
-  background: blue;
+  background: soft blue;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
@@ -28,7 +28,7 @@ body {
   width: 100%;
   padding: 10px 12px;
   margin-bottom: 12px;
-  border: 1px solid blue;
+  border: 1px solid white;
   border-radius: 6px;
   font-size: 16px;
 }
