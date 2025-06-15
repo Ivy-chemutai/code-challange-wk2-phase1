@@ -18,10 +18,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const name = guestNameInput.value.trim();
     const category = guestCategorySelect.value;
     
-    if (!name) return;
+    if (!name || !category) {
+      alert("Please enter a name and select a category.")
+      return;
+    }
     
     if (guests.length >= MAX_GUESTS) {
-      alert(`Sorry, the guests list is limited to ${MAX_GUESTS} people.`);
+      alert(`Sorry, the guest list is limited to ${MAX_GUESTS} people.`);
       return;
     }
     
