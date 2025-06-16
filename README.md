@@ -1,7 +1,7 @@
 # code-challange-wk2-phase1
 #  Event Guest List Manager
 
-A simple and interactive Event Guest List Manager built using **HTML**, **CSS**, and **JavaScript**.
+A simple web application to manage an event's  guest list. Add, remove, edit guests, track RSVP status, and categorize guests as Friends, Family, or colleague information using the Event Guest List Manager, built with HTML, CSS, and JavaScript.
 
 ---
 
