@@ -64,10 +64,10 @@ This project is open source and available under the [MIT License]
 
 Created as part of a JavaScript DOM Manipulation Code Challenge.
 
-##Author
+##  Author
    Ivvy Chemutai,
 
- HAPPY CODING!
+ Happy Coding!
 
 
  
